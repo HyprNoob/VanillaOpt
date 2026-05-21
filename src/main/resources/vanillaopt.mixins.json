@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.supernoob.vanillaopt.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [
+		"VaultServerDataMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
