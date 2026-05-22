@@ -1,0 +1,23 @@
+{
+  "given_item_modifiers": [
+    {
+      "function": "minecraft:set_enchantments",
+      "enchantments": {
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 1,
+        "minecraft:efficiency": 5
+      }
+    }
+  ],
+  "gives": {
+    "id": "minecraft:diamond_pickaxe",
+    "count": 1
+  },
+  "max_uses": 32.0,
+  "reputation_discount": 0.2,
+  "experience": 20,
+  "wants": {
+    "count": 8,
+    "id": "minecraft:diamond"
+  }
+}

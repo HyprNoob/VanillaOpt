@@ -1,0 +1,5 @@
+{
+  "amount": 2.0,
+  "random_sequence": "vanillaopt:trade_set/oto_level_3",
+  "trades": "#vanillaopt:oto/level_3"
+}

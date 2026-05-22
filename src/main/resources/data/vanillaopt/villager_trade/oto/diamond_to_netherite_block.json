@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "id": "minecraft:netherite_block"
+  },
+  "max_uses": 32.0,
+  "reputation_discount": 0.2,
+  "experience": 40,
+  "wants": {
+    "count": 8,
+    "id": "minecraft:diamond"
+  }
+}

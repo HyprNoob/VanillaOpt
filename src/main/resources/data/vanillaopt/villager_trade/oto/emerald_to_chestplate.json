@@ -1,0 +1,21 @@
+{
+  "given_item_modifiers": [
+    {
+      "function": "minecraft:set_enchantments",
+      "enchantments": {
+        "minecraft:unbreaking": 3
+      }
+    }
+  ],
+  "gives": {
+    "id": "minecraft:diamond_pickaxe",
+    "count": 1
+  },
+  "max_uses": 32.0,
+  "reputation_discount": 0.2,
+  "experience": 20,
+  "wants": {
+    "count": 24,
+    "id": "minecraft:emerald"
+  }
+}

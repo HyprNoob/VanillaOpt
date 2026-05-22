@@ -1,0 +1,22 @@
+{
+  "given_item_modifiers": [
+    {
+      "function": "minecraft:set_enchantments",
+      "enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:feather_falling": 4
+      }
+    }
+  ],
+  "gives": {
+    "id": "minecraft:diamond_boots",
+    "count": 1
+  },
+  "max_uses": 32.0,
+  "reputation_discount": 0.2,
+  "experience": 300,
+  "wants": {
+    "count": 24,
+    "id": "minecraft:emerald"
+  }
+}
