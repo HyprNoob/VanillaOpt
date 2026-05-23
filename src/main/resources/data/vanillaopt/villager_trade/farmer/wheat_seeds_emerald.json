@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "id": "minecraft:emerald",
+    "count": 1.0
+  },
+  "max_uses": 12.0,
+  "reputation_discount": 0.5,
+  "xp": 2.0,
+  "wants": {
+    "count": 16.0,
+    "id": "minecraft:wheat_seeds"
+  }
+}

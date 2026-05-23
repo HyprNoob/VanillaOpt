@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2.5,
+  "ingredient": [
+    "minecraft:slime_ball"
+  ],
+  "result": {
+    "id": "minecraft:magma_cream"
+  }
+}
