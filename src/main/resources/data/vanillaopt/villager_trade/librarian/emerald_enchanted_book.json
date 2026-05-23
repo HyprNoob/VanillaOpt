@@ -1,0 +1,27 @@
+{
+  "double_trade_price_enchantments": "#minecraft:double_trade_price",
+  "given_item_modifiers": [
+    {
+      "function": "minecraft:enchant_randomly",
+      "include_additional_cost_component": true,
+      "only_compatible": false,
+      "options": [
+        "minecraft:mending",
+        "minecraft:unbreaking",
+        "minecraft:efficiency"
+      ]
+    }
+  ],
+  "gives": {
+    "id": "minecraft:enchanted_book"
+  },
+  "max_uses": 12.0,
+  "reputation_discount": 0.2,
+  "xp": 2.0,
+  "wants": {
+    "id": "minecraft:emerald"
+  },
+  "additional_wants": {
+    "id": "minecraft:book"
+  }
+}

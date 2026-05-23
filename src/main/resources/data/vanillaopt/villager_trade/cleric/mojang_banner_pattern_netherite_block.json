@@ -10,6 +10,7 @@
     "id": "minecraft:mojang_banner_pattern"
   },
   "additional_wants": {
+    "count": 4.0,
     "id": "minecraft:diamond_block"
   }
 }
